@@ -90,4 +90,8 @@
   li {
     display: inline;
   }
-  
+  .menu {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }
